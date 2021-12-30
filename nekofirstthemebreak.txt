@@ -1,10 +1,3 @@
-/**
- * @name nekoforbreak
- * @author Fanny#0196
- * @description neko boy girl theme
- * @version 1
- */
-
   .app-2rEoOp {
   background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.694) 33%, rgba(0, 0, 0, 0.598) 65%), url(https://i.imgur.com/4HkRXAt.jpg);
   background-size: cover;
